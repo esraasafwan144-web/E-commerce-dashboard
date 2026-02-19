@@ -6,7 +6,7 @@ A modern and vibrant e-commerce dashboard UI designed to monitor sales, revenue,
 
 ## 📸 Preview
 
-![Glowmerce Dashboard]()
+![Glowmerce Dashboard](https://github.com/esraasafwan144-web/E-commerce-dashboard/blob/f15f00fd28659b6031e6bdd120616c16e7dce6f2/dashboard%202.png)
 
 ---
 
